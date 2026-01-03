@@ -1,2 +1,2 @@
 # data-analysis-TikTok
-Victoria's Secret data analysis on the platform of Tik Tok
+This contains the data analysis of Victoria's Secret on the platform of YouTube.
